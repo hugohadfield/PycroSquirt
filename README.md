@@ -17,11 +17,9 @@ for i in range(0,100):
 </code>
 
 
-<blockquote> 
   <p align="left">&nbsp;</p>
   <h3 align="center">Real Time variables returned with "A" commands. 
   </h3>
-  <blockquote> 
     <p align="left">Some values are scaled for best use of memory as indicated 
       by 'scale and translate'.. The scaling and translation values are used as 
       follows:<br>
@@ -29,8 +27,6 @@ for i in range(0,100):
       &nbsp;&nbsp;&nbsp;userValue = (msValue + translate) * scale <br>
       Where msValue is the value stored in MS2/Extra, and userValue is the scaled 
       human readable form using the indicated 'Units' in the table.</p>
-  </blockquote>
-</blockquote>
 <p align="left"></p>
 <p align="left"></p>
 <table border="1" align="center">
