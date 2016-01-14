@@ -1,5 +1,5 @@
 
-from MicroSquirt import MicroSquirt
+from PycroSquirt import MicroSquirt
 import time
 
 
