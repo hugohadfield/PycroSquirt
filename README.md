@@ -8,7 +8,7 @@ pyserial
 Example usage:
 
 ```python
-from MicroSquirt import MicroSquirt
+from PycroSquirt import MicroSquirt
 import time
 
 ms = MicroSquirt('COM7')
