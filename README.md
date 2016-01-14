@@ -2,6 +2,18 @@
 
 A Python Microsquirt V3 library
 
+Example usage:
+
+from MicroSquirt import MicroSquirt
+import time
+
+ms = MicroSquirt('COM7')
+for i in range(0,100):
+	ms.get_data()
+	time.sleep(0.5)
+
+
+
 <blockquote> 
   <p align="left">&nbsp;</p>
   <h3 align="center">Real Time variables returned with "A" commands. 
